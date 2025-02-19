@@ -48,6 +48,10 @@ body {
     color: rgb(255, 128, 0); 
 }
 
+p {
+color: gray;
+}
+
 .read {
     display: block;
     margin-top: 10px;
